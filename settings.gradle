@@ -1,0 +1,4 @@
+include ':maps'
+include ':core'
+rootProject.name='EPL Go App'
+include ':app'
